@@ -16,7 +16,8 @@ spring:
           use_jdbc_metadata_defaults: false
 
 datasource:
-url: jdbc:postgresql://ec2-54-204-96-190.compute-1.amazonaws.com:5432/ddicdujp50rls7?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
+url: jdbc:postgresql://ec2-54-83-21-198.compute-1.amazonaws.com:5432/d5m0ddt0f153bq?user=bdbbwjepinxikj&password=e1b06538e184852478e1fee0de6b0bdcf035c6a2bef25969f7300c971e22f244
+
 driver-class-name: org.postgresql.Driver
 username: enbrdlgyqqaftu
 password: 32bf0c43b20cf747bd3e80c7da477d70d7d5af25152d04c451658cf6a110122b
